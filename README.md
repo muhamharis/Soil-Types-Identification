@@ -35,9 +35,9 @@ The purpose of this project is __to identify soil types based on its color using
 2. Raw Data is being kept [here](https://github.com/muhamharis/Soil-Types-Identification/tree/master/Program/Citra%20Tanah) within this repo.
 
 <p align="center">
-  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Sebelum%20&%20Sesudah%20Crop.jpg?raw=true" alt="Data visualization"/>
+  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Sebelum%20&%20Sesudah%20Crop.jpg?raw=true" width="700" height="400" alt="Data visualization"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Lampiran%20Hasil%20Identifikasi.JPG?raw=true" alt="Data visualization"/>
+  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Lampiran%20Hasil%20Identifikasi.JPG?raw=true" width="700" height="500" alt="Data visualization"/>
 </p>
