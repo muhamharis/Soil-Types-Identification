@@ -27,7 +27,7 @@ The purpose of this project is __to identify soil types based on its color using
   3. information on soil type based on the results of vector formation
 * Feature vectors are extracted from images using color histogram method
 * Both feature vectors of soil image and query image are calculated using Euclidean distance and Manhattan distance.
-* The result of this calculation shows similarity between two images. The smaller the result, the more similar the images
+* The result of this calculation shows similarity between two images. The smaller the result, the more similar the images. Thus, types of soil can be identified
 
 ## Getting Started
 
