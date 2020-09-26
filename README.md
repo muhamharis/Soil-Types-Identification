@@ -4,7 +4,7 @@ This project is a part of thesis writing at Gunadarma University
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ______to identify soil types based on its color using hue, chroma, luminance color space__.
+The purpose of this project is __to identify soil types based on its color using hue, chroma, luminance color space__.
 
 
 ### Methods Used
@@ -32,5 +32,12 @@ The purpose of this project is ______to identify soil types based on its color u
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](https://github.com/muhamharis/Soil-Types-Identification/tree/master/Program/Citra%20Tanah) within this repo.
 
+<p align="center">
+  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Sebelum%20&%20Sesudah%20Crop.jpg?raw=true" alt="Data visualization"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/muhamharis/Soil-Types-Identification/blob/master/Program/Citra%20Tanah/Lampiran%20Hasil%20Identifikasi.JPG?raw=true" alt="Data visualization"/>
+</p>
